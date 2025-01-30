@@ -33,14 +33,14 @@ Welcome to my GitHub profile! I'm a passionate developer with an interest in use
 
 Here are some of the projects I've been working on:
 
-- [Project Name 1](https://github.com/Riski15-ux/project1): Brief description of the project.
+- [Pipe Network](https://github.com/Riski15-ux/project1): Brief description of the project.
 - [Project Name 2](https://github.com/Riski15-ux/project2): Brief description of the project.
 - [Project Name 3](https://github.com/Riski15-ux/project3): Brief description of the project.
 
 ## 🌐 Connect with Me
 
 - [LinkedIn](https://www.linkedin.com/in/riski15-ux/)
-- [Twitter](https://twitter.com/riski15_ux)
+- [Twitter](https://twitter.com/ts_traderss)
 - [Portfolio](https://riski15-ux-portfolio.com)
 
 Thank you for visiting my profile! 😊
